@@ -16,6 +16,8 @@ import java.util.concurrent.TimeUnit;
 public class delInfoUsuarioTest {
     private WebDriver navegador;
 
+    @Test
+
     @Before
     public void setUp() {
         // Abrindo o Navegador
